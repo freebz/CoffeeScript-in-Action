@@ -1,0 +1,20 @@
+Listing 12.1  File and directory structure for your blog application
+
+|
+|-- app
+|   |-- controllers
+|   |   |-- blog.coffee
+|   |   |-- controller.coffee
+|   |   |-- static.coffee
+|   |-- load.coffee
+|   |-- models
+|   |   |-- model.coffee
+|   |   |-- post.coffee
+|   |-- server.coffee
+|   --- views
+|       |-- list.coffee
+|       |-- post.coffee|
+|       |-- view.coffee
+|-- content
+|   |-- my-trip-to-the-circus.txt
+|   --- my-trip-to-the-zoo.txt
